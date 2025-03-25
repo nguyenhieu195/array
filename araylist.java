@@ -16,6 +16,7 @@ import java.util.Scanner;
  *
  * @author hieuvannguyen
  */
+//hieu dep trai
 class Mang {
 
     public static Scanner sc = new Scanner(System.in);
